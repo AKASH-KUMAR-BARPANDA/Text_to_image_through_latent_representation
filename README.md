@@ -1,4 +1,4 @@
-<![CDATA[# 🧠 Text-to-Image through Latent Representations
+# 🧠 Text-to-Image through Latent Representations
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-4285F4?style=flat-square&logo=huggingface&logoColor=white)](https://www.sbert.net/)
@@ -589,4 +589,3 @@ Built as a learning experiment to understand the foundations of multimodal AI an
 <p align="center">
   <i>⭐ If you found this educational or interesting, consider starring the repo!</i>
 </p>
-]]>
